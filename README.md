@@ -1,4 +1,42 @@
-### Hi there 👋
+## drytarius/dt123 ⚡
+
+# About Me:
+- Hello, I do stuff... and they do be like stuff.
+
+- ❤️ Pronouns: *shah/mat*
+- 📫 How to reach me: [Steam](https://steamcommunity.com/id/swai_js)
+
+## Stuff that I enjoy:
+- JavaScript (not sure about this one).
+- Prof. Shahmat,
+- Making repositories that only 5 people on the planet will see.
+
+## Experiences:
+### JavaScript,
+- Node.js,
+- Electron.js
+- React *(A very small amount)*,
+
+### Other,
+- HTML,
+- CSS,
+- Python,
+- C++ *(Just for PlatformIO, Arduino)*,
+- XAMPP *(Not enough experience, just a very little amount)*,
+- Kotlin *(Just for Android Studio)*.
+
+## Ongoing Projects:
+- [CS:GO Config Maker](https://github.com/drytarius/drytarius.github.io)
+
+## My Other Projects:
+- ***The Art Gallery Project***, // Three.js && Cannon-es
+- ***Rasphotographer***, // DiscordJS && Pi-Camera
+- ***Swai-2***, // DiscordJS && GPT-3.5 Turbo, 
+
+
+
+🌱 **Still learning...** 🌱
+***KEEP UP THE HOBBY 💪***
 
 <!--
 **drytarius/drytarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
