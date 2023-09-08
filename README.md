@@ -4,8 +4,8 @@
 - Hello, I do stuff... and they do be like stuff.
 
 - ❤️ Pronouns: *shah/mat*
+- 🐾 Furry
 - 📫 How to reach me: [Steam](https://steamcommunity.com/id/swai_js)
-- Furry 🐾
 
 ## Stuff that I enjoy:
 - JavaScript (not sure about this one).
