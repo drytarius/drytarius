@@ -5,7 +5,11 @@
 
 - ❤️ Pronouns: *shah/mat*
 - 🐾 Furry
-- 📫 How to reach me: [Steam](https://steamcommunity.com/id/swai_js)
+
+### 📫 How to reach me: 
+[Steam](https://steamcommunity.com/id/swai_js) ||
+[Reddit](https://www.reddit.com/user/drytarius) ||
+swai_js on Discord
 
 ## Stuff that I enjoy:
 - JavaScript (not sure about this one).
