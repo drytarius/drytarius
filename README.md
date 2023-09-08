@@ -5,6 +5,7 @@
 
 - ❤️ Pronouns: *shah/mat*
 - 📫 How to reach me: [Steam](https://steamcommunity.com/id/swai_js)
+- Furry 🐾
 
 ## Stuff that I enjoy:
 - JavaScript (not sure about this one).
@@ -33,7 +34,7 @@
 - ***Rasphotographer***, // DiscordJS && Pi-Camera
 - ***Swai-2***, // DiscordJS && GPT-3.5 Turbo, 
 
-
+![images](https://github.com/drytarius/drytarius/assets/109593967/1ca74758-539e-49e2-bcd8-73de7d59c86b)
 
 🌱 **Still learning...** 🌱
 ***KEEP UP THE HOBBY 💪***
