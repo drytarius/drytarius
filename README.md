@@ -34,9 +34,9 @@ swai_js on Discord
 - [CS2 Config Maker *~previously named "CS:GO Config Maker"*](https://github.com/drytarius/drytarius.github.io)
 
 ## My Other Projects:
-- ***The Art Gallery Project***, // Three.js && Cannon-es
-- ***Rasphotographer***, // DiscordJS && Pi-Camera
-- ***Swai-2***, // DiscordJS && GPT-3.5 Turbo, 
+- ***The Art Gallery Project***, // Three.js && Cannon-es,
+- ***Rasphotographer***, // DiscordJS && Pi-Camera,
+- ***Swai-2***, // DiscordJS && GPT-3.5 Turbo 
 
 ![images](https://github.com/drytarius/drytarius/assets/109593967/1ca74758-539e-49e2-bcd8-73de7d59c86b)
 
