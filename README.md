@@ -31,7 +31,7 @@ swai_js on Discord
 - Kotlin *(Just for Android Studio)*.
 
 ## Ongoing Projects:
-- [CS:GO Config Maker](https://github.com/drytarius/drytarius.github.io)
+- [CS2 Config Maker](https://github.com/drytarius/drytarius.github.io) *~previously named "CS:GO Config Maker"*
 
 ## My Other Projects:
 - ***The Art Gallery Project***, // Three.js && Cannon-es
