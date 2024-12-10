@@ -36,6 +36,15 @@ swai_js on Discord
 	<a href="https://cscfg.42web.io/">CSCFG - Counter Strike 2: Config Maker</a>
 </div>
 
+
+
+
+
+
+
+
+
+
 ![images](https://github.com/drytarius/drytarius/assets/109593967/1ca74758-539e-49e2-bcd8-73de7d59c86b)
 
 🌱 **Still learning...** 🌱
