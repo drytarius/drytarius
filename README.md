@@ -30,7 +30,10 @@ swai_js on Discord
 - Python,
 
 ## Ongoing Projects:
-- [CS2 Config Maker *~previously named "CS:GO Config Maker"*](https://cscfg.42web.io)
+![CSCFG Logo](https://github.com/drytarius/drytarius/blob/main/logo/cs2cfg_colored.png?raw=true)
+<div align=center>
+	<a href="https://cscfg.42web.io/">CSCFG - Counter Strike 2: Config Maker</a>
+</div>
 
 ![images](https://github.com/drytarius/drytarius/assets/109593967/1ca74758-539e-49e2-bcd8-73de7d59c86b)
 
