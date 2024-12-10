@@ -12,31 +12,25 @@
 swai_js on Discord
 
 ## Stuff that I enjoy:
-- JavaScript (not sure about this one).
 - Prof. Shahmat,
+- JavaScript (not really),
 - Making repositories that only 5 people on the planet will see.
 
 ## Experiences:
 ### JavaScript,
 - Node.js,
 - Electron.js
-- React-Native *(A very small amount)*,
+- React-Native *(I want to cry)*,
 
 ### Other,
-- HTML,
-- CSS,
+- PHP,
+- MySQL,
+- C#,
+- C++,
 - Python,
-- C++ *(Just for PlatformIO, Arduino)*,
-- XAMPP *(Not enough experience, just a very little amount)*,
-- Kotlin *(Just for Android Studio)*.
 
 ## Ongoing Projects:
 - [CS2 Config Maker *~previously named "CS:GO Config Maker"*](https://cscfg.42web.io)
-
-## My Other Projects:
-- ***The Art Gallery Project***, // Three.js && Cannon-es,
-- ***Rasphotographer***, // DiscordJS && Pi-Camera,
-- ***Swai-2***, // DiscordJS && GPT-3.5 Turbo 
 
 ![images](https://github.com/drytarius/drytarius/assets/109593967/1ca74758-539e-49e2-bcd8-73de7d59c86b)
 
